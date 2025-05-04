@@ -1,7 +1,7 @@
 # Design_Sprint_3_Devinn-Cat-Noel
 
 
-# Adaptive Switch + Water Gun Project
+# Switch-Adapted Water Gun Designed for Accessibility
 
 
 ## Overview
