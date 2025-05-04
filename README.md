@@ -21,7 +21,7 @@ We 3.5mm switch-adapted an electric water gun to enable people with limited mobi
   - 4 mm jack
   - Momentary Push Button
   - Soldering iron
-- **Toy used**: [Electric Water Gun - Shark Water Gun]([https://www.walmart.com/ip/Shark-Stream-Electric-Water-Gun/123456789](https://www.walmart.com/ip/Electric-Water-Gun-Shark-Water-Guns-for-Kids-Adults-32FT-Automatic-Squirt-Guns-High-Capacity-Water-Guns-Summer-Water-Play-Toys/15218453861?classType=REGULAR&from=/search))  
+- **Toy used**: [Electric Water Gun - Shark Water Gun]([https://www.walmart.com/ip/Shark-Stream-Electric-Water-Gun/123456789](https://www.walmart.com/ip/Electric-Water-Gun-Shark-Water-Guns-for-Kids-Adults-32FT-Automatic-Squirt-Guns-High-Capacity-Water-Guns-Summer-Water-Play-Toys/15218453861?classType=REGULAR&from=/search)
   - Drilled 1/4" hole for jack  
   - Soldered wires to internal switch and power circuit
  
