@@ -8,11 +8,7 @@
 We 3.5mm switch-adapted an electric water gun to enable people with limited mobility to enjoy water play. This project involved 3D printing, simple circuitry, and physical prototyping. This water gun is designed as open assistive technology, or OpenAT. This device may be used and adapted by anyone.
 
 ## Final Prototype Image
-![image](https://github.com/davinchi73/Design_Sprint_3_Devinn-Cat-Noel/blob/cbc392ea20b671ee19caa896f038ba4f957eef00/Photos/Gun_and_V1Stand.jpg)
-
-## Devices Built
-- **Momentary Push Button - Adaptive Switch**: 3D printed, wired to trigger external devices.
-- **Water Gun Adapter**: Modified electric shark water gun with custom stand and external switch jack.
+![image](https://github.com/davinchi73/Design_Sprint_3_Devinn-Cat-Noel/blob/cbc392ea20b671ee19caa896f038ba4f957eef00/Photos/Gun_and_V1Stand.jpg) #replace this image
 
 ## Design + Fabrication Summary
 - Water gun stand designed using OnShape. 
@@ -26,7 +22,6 @@ We 3.5mm switch-adapted an electric water gun to enable people with limited mobi
   - Soldered wires to internal switch and power circuit
  
 ## How to build this device
-
 All of the files and instructions required to adapted the water gun are contained within this repository. Refer to the Maker Checklist below for more information and documentation.
 
 ### 1. Order the components 
