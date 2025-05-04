@@ -25,7 +25,7 @@ We 3.5mm switch-adapted an electric water gun to enable people with limited mobi
 All of the files and instructions required to adapted the water gun are contained within this repository. Refer to the Maker Checklist below for more information and documentation.
 
 ### 1. Order the components 
-Order the necessary components for this build. They are listed in the [bill of materials](). 
+Order the necessary components for this build. They are listed in the [bill of materials](https://github.com/davinchi73/Design_Sprint_3_Devinn-Cat-Noel/blob/main/Documentation/Water_Gun_Bill_of_Materials.pdf). 
 
 ### 2. Print the 3D printables
 Print the files using a 3D printer. We used [Prusa](https://www.prusa3d.com/?utm_source=google&utm_medium=cpc&utm_campaign=EN-US_Search_Text_Brand&utm_id=805226342&gad_source=1&gad_campaignid=805226342&gbraid=0AAAAADkiZoMQLWx7I6_i8Z4JGoRqfIOiK&gclid=Cj0KCQjwoNzABhDbARIsALfY8VMpwMWZt9w00vws5xpJP1zPjw0NuY0tMLbhMrT6I6lO_lXg2FqFplsaAkaQEALw_wcB) and [Bambu](https://us.store.bambulab.com/?gad_source=1&gad_campaignid=20326984537&gbraid=0AAAAAo9so7M-KN1elnPLE1mRjUI4ZcQL0&gclid=Cj0KCQjwoNzABhDbARIsALfY8VO-hWUIrqNfUYTLE7RObMGa2J3tRXY2lEzaHcmRl2_5EFsTW3EwSZIaArtVEALw_wcB) devices for our project. The printable files are linked below in the "Files" section of this readme.
