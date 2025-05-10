@@ -8,7 +8,7 @@
 We 3.5mm switch-adapted an electric water gun to enable people with limited mobility to enjoy water play. This project involved 3D printing, simple circuitry, and physical prototyping. This water gun is designed as open assistive technology, or OpenAT. This device may be used and adapted by anyone.
 
 ## Final Prototype Image
-![image](https://github.com/davinchi73/Design_Sprint_3_Devinn-Cat-Noel/blob/cbc392ea20b671ee19caa896f038ba4f957eef00/Photos/Gun_and_V1Stand.jpg)
+![image](https://github.com/davinchi73/Design_Sprint_3_Devinn-Cat-Noel/blob/main/Photos/Stand.jpg)
 
 
 ## Design + Fabrication Summary
